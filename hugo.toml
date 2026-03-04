@@ -1,0 +1,11 @@
+baseURL = "https://zcao4405.github.io/"
+title = "Daniel's Thinking Lab"
+theme = "PaperMod"
+languageCode = "en-us"
+
+[params]
+author = "Daniel"
+description = "Technology, Education, and Thinking"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
